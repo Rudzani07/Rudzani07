@@ -1,4 +1,4 @@
-## Hi there 👋
+## My Official Github Account
 
 <!--
 **Rudzani07/Rudzani07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
