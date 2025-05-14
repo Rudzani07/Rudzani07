@@ -33,15 +33,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"><strong>About Me</strong></h3>
 
 ###
 
-<p align="left">Detail-oriented IT(Software Development) student at Nelson Mandela University with a strong problem-solving mindset and a collaborative approach. Solid understanding of software development principles and Data Analysis. I'm proficient in C#, Python and JavaScript with hands-on experience in developing web applications, Web APIs and mobile apps both front-end and back-end using ASP.Net Core , React, Node.js, SQL and experienced in working within Agile development environments. Proven ability to deliver high-quality code, demonstrated through successful completion of Mthengi Student Martketplace and Hospital Management System. Skilled in data interpretation, statistical analysis and data visualization with a keen understanding of business objectives. Eager to apply my skills to develop robust and scalable software and data-driven solutions.</p>
+<p align="left">Detail-oriented IT(Software Development) student at Nelson Mandela University with a strong problem-solving mindset and a collaborative approach. Solid understanding of software development principles and Data Analysis. I'm proficient in C#, Java, Python and JavaScript with hands-on experience in developing web applications, Web APIs and mobile apps both front-end and back-end using ASP.Net Core , React, Node.js, SQL and experienced in working within Agile development environments. Proven ability to deliver high-quality code, demonstrated through successful completion of Mthengi Student Martketplace and Hospital Management System. Skilled in data interpretation, statistical analysis and data visualization with a keen understanding of business objectives. Eager to apply my skills to develop robust and scalable software and data-driven solutions.</p>
 
 ###
 
-###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
