@@ -64,7 +64,7 @@ Other: RESTful APIs, Agile/Scrum, Version Control (Git/GitHub)</p>
 ###
 
 <p align="left">
-Final-year software development project focused on scalable web solutions |
+Final-year software development project focused on scalable web solutions <strong>|</strong>
 Udemy Software Testing Boot Camp 2025 |
 Aws cloud Essentials Certification | 
 ISQTB Foundational level Certification |
