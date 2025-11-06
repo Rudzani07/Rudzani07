@@ -70,6 +70,16 @@ ISQTB Foundational level Certification
 Building QA test cases and automation scripts for sample applications.
 Exploring data analytics projects that turn raw data into actionable insights</p>
 
+
+###
+<h3 align="left">🌱 Currently Learning</h3>
+
+<p align="left">Test Automation & Continuous Integration (CI/CD)
+
+Advanced data visualization and machine learning fundamentals.</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -158,8 +168,6 @@ Exploring data analytics projects that turn raw data into actionable insights</p
 
 
 ###
-<h3 align="center">🛠 Projects Repos Coming Soon..</h3>
-
 
 <h3 align="left">🤝 Let’s Connect</h3>
 
@@ -183,3 +191,6 @@ Exploring data analytics projects that turn raw data into actionable insights</p
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="hackerrank logo"  />
   </a>
 </div>
+###
+<h3 align="center">🛠 Projects Repos Coming Soon..</h3>
+
