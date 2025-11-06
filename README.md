@@ -47,6 +47,19 @@ My background combines coding, testing, and data-driven insights — giving me a
 
 ###
 
+<p align="left">Languages: C#, Python, JavaScript, SQL
+
+Frameworks & Tools: .NET, ASP.NET Core, React, Node.js, Git, Postman
+
+QA & Testing: Manual Testing, Test Case Design, API Testing, Selenium, JIRA
+
+Data Analysis: Power BI, Excel, Pandas, Data Cleaning & Visualization
+
+Databases: MySQL, SQL Server
+
+Other: RESTful APIs, Agile/Scrum, Version Control (Git/GitHub)</p>
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
