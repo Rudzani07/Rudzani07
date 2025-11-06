@@ -37,7 +37,9 @@
 
 ###
 
-<p align="left">Detail-oriented IT(Software Development) student at Nelson Mandela University with a strong problem-solving mindset and a collaborative approach. Solid understanding of software development principles and Data Analysis. I'm proficient in C#, Java, Python and JavaScript with hands-on experience in developing web applications, Web APIs and mobile apps both front-end and back-end using ASP.Net Core , React, Node.js, SQL and experienced in working within Agile development environments. Proven ability to deliver high-quality code, demonstrated through successful completion of Mthengi Student Martketplace and Hospital Management System. Skilled in data interpretation, statistical analysis and data visualization with a keen understanding of business objectives. Eager to apply my skills to develop robust and scalable software and data-driven solutions.</p>
+<p align="left">I’m a Final-Year Information Technology student specializing in Software Development, with hands-on experience in Software Quality Assurance (QA) and Data Analysis. I’m passionate about building reliable, efficient, and user-focused software solutions that solve real-world problems.
+
+My background combines coding, testing, and data-driven insights — giving me a full view of the software lifecycle, from development to deployment and performance evaluation. I enjoy working with agile teams, writing clean code, and ensuring quality through continuous testing and optimization.</p>
 
 ###
 
