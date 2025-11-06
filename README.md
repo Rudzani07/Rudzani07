@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left"><strong>About Me</strong></h3>
+<h3 align="left"><strong>💻 About Me</strong></h3>
 
 ###
 
@@ -47,19 +47,29 @@ My background combines coding, testing, and data-driven insights — giving me a
 
 ###
 
-<p align="left">Languages: C#, Python, JavaScript, SQL
+<p align="left">Languages: C#, Java, Python, JavaScript, SQL
 
 Frameworks & Tools: .NET, ASP.NET Core, React, Node.js, Git, Postman
 
-QA & Testing: Manual Testing, Test Case Design, API Testing, Selenium, JIRA
+QA & Testing: Manual Testing, Test Case Design, API Testing, Selenium, JIRA, Automation Testing
 
 Data Analysis: Power BI, Excel, Pandas, Data Cleaning & Visualization
 
-Databases: MySQL, SQL Server
+Databases: MySQL, SQL Server, MongoDB, Firebase
 
 Other: RESTful APIs, Agile/Scrum, Version Control (Git/GitHub)</p>
 
+<h3 align="left">🚀 What I’m Working On</h3>
 
+###
+
+<p align="left">
+Final-year software development project focused on scalable web solutions.
+Udemy Software Testing Boot Camp 2025
+Aws cloud Essentials Certification
+ISQTB Foundational level Certification
+Building QA test cases and automation scripts for sample applications.
+Exploring data analytics projects that turn raw data into actionable insights.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
