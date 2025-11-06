@@ -160,11 +160,7 @@ Exploring data analytics projects that turn raw data into actionable insights</p
 
 <h3 align="left"></h3>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudzani07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=true&order=2" height="159" alt="languages graph"  />
-</div>
 
 
 ###
@@ -175,7 +171,8 @@ Exploring data analytics projects that turn raw data into actionable insights</p
 ###
 <p align="left">I’m open to internship and entry-level opportunities in Software Development, QA Engineering, or Data Analytics, where I can apply my skills, learn from industry experts, and contribute to impactful projects.
 </p>
-###
+
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
