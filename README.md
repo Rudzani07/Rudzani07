@@ -185,3 +185,10 @@ Exploring data analytics projects that turn raw data into actionable insights</p
 </div>
 
 ###
+<h3 align="left">🛠 Projects Repos Coming Soon..</h3>
+
+###
+<h3 align="left">🤝 Let’s Connect</h3>
+###
+<p align="left">I’m open to internship and entry-level opportunities in Software Development, QA Engineering, or Data Analytics, where I can apply my skills, learn from industry experts, and contribute to impactful projects.
+</p>
