@@ -67,8 +67,8 @@ Other: RESTful APIs, Agile/Scrum, Version Control (Git/GitHub)</p>
 Udemy Software Testing Boot Camp 2025
 Aws cloud Essentials Certification
 ISQTB Foundational level Certification
-Building QA test cases and automation scripts for sample applications.
-Exploring data analytics projects that turn raw data into actionable insights</p>
+Building QA test cases and automation scripts for sample applications
+Exploring data analytics projects that turn raw data into actionable insights.</p>
 
 
 ###
