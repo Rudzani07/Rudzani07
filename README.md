@@ -1,5 +1,5 @@
 <div align="center">
-<h4 align="center">Hi there👋, Welcome</h4>
+<h4 align="center">Hi there👋, Welcome to my Github Profile</h4>
 </div>
 
 ###
@@ -42,6 +42,11 @@
 My background combines coding, testing, and data-driven insights — giving me a full view of the software lifecycle, from development to deployment and performance evaluation. I enjoy working with agile teams, writing clean code, and ensuring quality through continuous testing and optimization.</p>
 
 ###
+
+<h3 align="left"><strong>🔧 Technical Skills</strong></h3>
+
+###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
