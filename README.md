@@ -173,7 +173,7 @@ Advanced data visualization and machine learning fundamentals.</p>
 
 <p align="left">I’m open to internship and entry-level opportunities in Software Development, QA Engineering, or Data Analytics, where I can apply my skills, learn from industry experts, and contribute to impactful projects.
 </p>
-###
+
 <h3 align="left">Contact Info</h3>
 
 <div align="center">
@@ -191,6 +191,6 @@ Advanced data visualization and machine learning fundamentals.</p>
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="hackerrank logo"  />
   </a>
 </div>
-###
+
 <h3 align="center">🛠 Projects Repos Coming Soon..</h3>
 
