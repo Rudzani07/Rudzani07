@@ -166,6 +166,15 @@ Exploring data analytics projects that turn raw data into actionable insights</p
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudzani07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=true&order=2" height="159" alt="languages graph"  />
 </div>
 
+
+###
+<h3 align="center">🛠 Projects Repos Coming Soon..</h3>
+
+###
+<h3 align="left">🤝 Let’s Connect</h3>
+###
+<p align="left">I’m open to internship and entry-level opportunities in Software Development, QA Engineering, or Data Analytics, where I can apply my skills, learn from industry experts, and contribute to impactful projects.
+</p>
 ###
 
 <div align="center">
@@ -183,12 +192,3 @@ Exploring data analytics projects that turn raw data into actionable insights</p
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-<h3 align="left">🛠 Projects Repos Coming Soon..</h3>
-
-###
-<h3 align="left">🤝 Let’s Connect</h3>
-###
-<p align="left">I’m open to internship and entry-level opportunities in Software Development, QA Engineering, or Data Analytics, where I can apply my skills, learn from industry experts, and contribute to impactful projects.
-</p>
