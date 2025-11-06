@@ -63,12 +63,12 @@ Other: RESTful APIs, Agile/Scrum, Version Control (Git/GitHub)</p>
 
 ###
 
-<p align="left">Final-year software development project focused on scalable web solutions.
+<p align="left">Final-year software development project focused on scalable web solutions
 Udemy Software Testing Boot Camp 2025
 Aws cloud Essentials Certification
 ISQTB Foundational level Certification
 Building QA test cases and automation scripts for sample applications.
-Exploring data analytics projects that turn raw data into actionable insights.</p>
+Exploring data analytics projects that turn raw data into actionable insights</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
